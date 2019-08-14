@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+    <name>product_thumbnail_image_slider</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This is product thumbnail image slider extension for magento and its playing with product thumbnail images.</summary>
+    <description>Product thumbnail images slider extension for magento latest version 1.9&#xD;
+&#xD;
+its give smoothly sliding effect to product thumbnail images.&#xD;
+&#xD;
+Using this extension you can manage multiple image easily&#xD;
+&#xD;
+JQuery no conflict added to avoid conflicts with other scripts&#xD;
+&#xD;
+Compatible with all modern browser&#xD;
+&#xD;
+Lightweight, modern and fast loading slider design.&#xD;
+&#xD;
+User can easily install and customize CSS and HTML formatting. </description>
+    <notes>this is stable version of product thumbnail image slider</notes>
+    <authors><author><name>iquallinfo</name><user>admin</user><email>support@i-quall.com</email></author></authors>
+    <date>2014-12-04</date>
+    <time>12:56:18</time>
+    <contents><target name="mageskin"><dir name="frontend"><dir name="rwd"><dir name="default"><dir name="css"><file name="jquery.bxslider.css" hash="0e7de8b94c8ba3d0bd13b8bc8e08fabb"/></dir><dir name="images"><file name="prev.png" hash="f0fba287b178bb121ee489c67b7eacd2"/><file name="next.png" hash="89b25e9a56c8c330de9916801fd8603a"/></dir><dir name="js"><file name="jquery.bxslider.js" hash="d76155e70fbd82622431440d71bb8acc"/><file name="jquery.bxslider.min.js" hash="d54c9a5f73116858f86ad80d5a4c1778"/></dir></dir></dir></dir></target><target name="mage"><dir name="product-image-slider"><file name="read_me.txt" hash="6a570920c0b12a72f3ee5230abaf44a6"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php><package><name>Mage_Core_Modules</name><channel>Community</channel><min>1.6.0.0</min><max>1.7</max></package></required></dependencies>
+</package>

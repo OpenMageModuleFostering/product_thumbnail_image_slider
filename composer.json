@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/product_thumbnail_image_slider",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "This is product thumbnail image slider extension for magento and its playing with product thumbnail images.",
+    "authors": [
+    {
+        "name": "iquallinfo",
+        "email": "support@i-quall.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

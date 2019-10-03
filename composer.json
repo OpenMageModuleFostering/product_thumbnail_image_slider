@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/product_thumbnail_image_slider",
+    "name": "openmage-module-fostering\/product_thumbnail_image_slider",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This is product thumbnail image slider extension for magento and its playing with product thumbnail images.",
     "authors": [

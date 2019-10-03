@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This is product thumbnail image slider extension for magento and its playing with product thumbnail images.
